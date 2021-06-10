@@ -1,2 +1,8 @@
 # Fatherland-Datapack
- The official datapack of the Fatherland server.
+The official datapack of the Fatherland server.
+
+Crafting Recipes:
+
+Name Tag<br />
+Bundle<br />
+Sculk Sensor

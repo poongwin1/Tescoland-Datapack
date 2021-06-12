@@ -5,4 +5,5 @@ Crafting Recipes:
 
 Name Tag<br />
 Bundle<br />
-Sculk Sensor
+Sculk Sensor<br />
+Bedrock

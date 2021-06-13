@@ -6,4 +6,4 @@ Crafting Recipes:
 Name Tag<br />
 Bundle<br />
 Sculk Sensor<br />
-Bedrock
+Glow Berries

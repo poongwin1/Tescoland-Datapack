@@ -6,4 +6,5 @@ Crafting Recipes:
 Name Tag<br />
 Bundle<br />
 Sculk Sensor<br />
-Glow Berries
+Glow Berries<br />
+Enchanted Golden Apple

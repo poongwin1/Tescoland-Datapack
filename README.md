@@ -1,7 +1,7 @@
 # Fatherland-Datapack
 The official datapack of the Fatherland server.
 
-Cave Generation: https://www.curseforge.com/minecraft/customization/deeper-world-and-expanded-build-height
+Cave Generation: https://www.curseforge.com/minecraft/customization/deeper-world-and-expanded-build-height<br />
 Jungle and Badlands villages: https://www.planetminecraft.com/data-pack/vanilla-expansion-datapack/
 
 Crafting Recipes:

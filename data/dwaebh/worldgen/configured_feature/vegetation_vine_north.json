@@ -4,29 +4,14 @@
       "entries": [
         {
           "data": {
-            "Name": "minecraft:stone"
-          },
-          "weight": 3
-        },
-        {
-          "data": {
-            "Name": "minecraft:cobblestone"
-          },
-          "weight": 3
-        },
-        {
-          "data": {
-            "Name": "minecraft:mossy_cobblestone"
-          },
-          "weight": 3
-        },
-        {
-          "data": {
             "Properties": {
-              "distance": "7",
-              "persistent": "true"
+              "east": "false",
+              "west": "false",
+              "north": "true",
+              "south": "false",
+              "up": "false"
             },
-            "Name": "minecraft:jungle_leaves"
+            "Name": "minecraft:vine"
           },
           "weight": 5
         }
@@ -34,13 +19,15 @@
       "type": "minecraft:weighted_state_provider"
     },
     "head_provider": {
-      "state":
-      {
+      "state": {
         "Properties": {
-          "distance": "7",
-          "persistent": "true"
+          "east": "false",
+          "west": "false",
+          "north": "true",
+          "south": "false",
+          "up": "false"
         },
-        "Name": "minecraft:jungle_leaves"
+        "Name": "minecraft:vine"
       },
       "type": "minecraft:simple_state_provider"
     },
@@ -64,7 +51,7 @@
             "max_inclusive": 4
           }
         },
-        "weight": 2
+        "weight": 3
       },
       {
         "data": {

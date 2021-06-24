@@ -58,7 +58,11 @@
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
-      "minecraft:prototype_ore_emerald"
+      "minecraft:prototype_ore_emerald",
+
+      "dwaebh:mountains_surface_ore_ice",
+      "dwaebh:mountains_surface_ore_snow_block",
+      "dwaebh:mountains_surface_ore_powder_snow"
     ],
     [
       "minecraft:rare_dripstone_cluster",

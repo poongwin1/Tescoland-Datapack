@@ -5,6 +5,7 @@ Cave Generation: https://www.curseforge.com/minecraft/customization/deeper-world
 
 Crafting Recipes:
 
+Chainmail Armor<br />
 Name Tag<br />
 Bundle<br />
 Sculk Sensor<br />

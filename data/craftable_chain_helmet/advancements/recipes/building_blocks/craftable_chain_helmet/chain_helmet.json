@@ -1,0 +1,25 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_chain": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:chain"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_chain"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "craftable_chain_helmet:chain_helmet"
+        ]
+    }
+}

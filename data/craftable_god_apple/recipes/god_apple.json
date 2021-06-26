@@ -5,9 +5,9 @@
         "count": 1
     },
     "pattern": [
-        "G G",
-        " A ",
-        "G G"
+        "GGG",
+        "GAG",
+        "GGG"
     ],
     "key": {
         "G": {

@@ -87,7 +87,7 @@
     ]
   ],
   "starts": [
-    "minecraft:village_plains",
+    "dwaebh:village_swamp",
     "minecraft:pillager_outpost",
     "minecraft:swamp_hut",
     "minecraft:mineshaft",

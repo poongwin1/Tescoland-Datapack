@@ -74,7 +74,9 @@
       "minecraft:patch_pumpkin",
       "minecraft:prototype_spring_water",
       "minecraft:spring_lava",
-      "minecraft:seagrass_river"
+      "minecraft:seagrass_river",
+      
+      "minecraft:patch_waterlilly"
     ],
     [
       "minecraft:freeze_top_layer"

@@ -78,7 +78,8 @@
       "minecraft:prototype_vines",
 
       "dwaebh:jungle_caves_floor",
-      "dwaebh:jungle_caves_ceiling"
+      "dwaebh:jungle_caves_ceiling",
+      "minecraft:forest_rock"
     ],
     [
       "minecraft:freeze_top_layer"

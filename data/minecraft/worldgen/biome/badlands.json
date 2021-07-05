@@ -83,7 +83,7 @@
     ]
   ],
   "starts": [
-    "minecraft:village_plains",
+    "dwaebh:village_badlands",
     "minecraft:pillager_outpost",
     "minecraft:mineshaft_mesa",
     "minecraft:stronghold",

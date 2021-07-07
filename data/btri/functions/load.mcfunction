@@ -1,0 +1,1 @@
+schedule function btri:illusionerspawn/spawn 10t

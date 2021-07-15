@@ -6,7 +6,6 @@ Chainmail Armor<br />
 Name Tag<br />
 Bundle<br />
 Sculk Sensor<br />
-Glow Berries<br />
 Enchanted Golden Apple
 
 ## Module Credits:<br />

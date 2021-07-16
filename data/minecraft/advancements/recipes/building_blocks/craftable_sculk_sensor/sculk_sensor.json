@@ -41,7 +41,7 @@
     ],
     "rewards": {
         "recipes": [
-            "craftable_sculk_sensor:sculk_sensor"
+            "minecraft:sculk_sensor"
         ]
     }
 }

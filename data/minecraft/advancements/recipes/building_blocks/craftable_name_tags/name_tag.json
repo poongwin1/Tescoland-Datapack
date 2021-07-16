@@ -41,7 +41,7 @@
     ],
     "rewards": {
         "recipes": [
-            "craftable_name_tags:name_tag"
+            "minecraft:name_tag"
         ]
     }
 }

@@ -30,7 +30,7 @@
     ],
     "rewards": {
         "recipes": [
-            "craftable_notch_apples:notch_apple"
+            "minecraft:notch_apple"
         ]
     }
 }

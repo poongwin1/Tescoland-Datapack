@@ -1,4 +1,4 @@
-# Fatherland Datapack
+# Tescoland Datapack
 ## The official datapack of the Tescoland server.
 
 ## Crafting Recipes:<br />

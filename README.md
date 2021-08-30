@@ -1,5 +1,5 @@
 # Fatherland Datapack
-## The official datapack of the Fatherland server.
+## The official datapack of the Tescoland server.
 
 ## Crafting Recipes:<br />
 Chainmail Armor<br />
